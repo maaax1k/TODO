@@ -186,6 +186,10 @@ main {
       padding: 0 10%;
       margin-bottom: 20px;
    }
+   .add
+   {
+      margin: 0;
+   }
 }
 @media (min-width: 1023px) and (max-width: 1439px){
    .head{
