@@ -185,6 +185,10 @@ main {
       padding: 0 10%;
       margin-bottom: 20px;
    }
+   .add{
+      width: 20px;
+      height: 20px;
+   }
 }
 @media (min-width: 1023px) and (max-width: 1439px){
    .head{
