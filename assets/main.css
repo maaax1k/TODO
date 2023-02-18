@@ -176,6 +176,7 @@ main {
       margin: 20px 0px;
       align-self: center;
       justify-self: center;
+      padding-bottom: 0px;
    }
    main{
       padding: 0;
@@ -184,12 +185,6 @@ main {
       width: 80%;
       padding: 0 10%;
       margin-bottom: 20px;
-   }
-   .add{
-      margin: 20px;
-   }
-   .case_container{
-      height: 75%;
    }
 }
 @media (min-width: 1023px) and (max-width: 1439px){
